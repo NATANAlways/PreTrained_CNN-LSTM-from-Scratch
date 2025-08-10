@@ -157,4 +157,3 @@ ImageCaptionGenerator_CNN_LSTM/
 
 * [Kaggle](https://www.kaggle.com/)
 * [GeeksForGeeks](https://www.geeksforgeeks.org/)
-* [YouTube Tutorial](https://youtu.be/3H1x8SDYgvQ?si=1ERw_4PIOV-8UY3c)
